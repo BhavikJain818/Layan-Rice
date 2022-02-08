@@ -1,0 +1,9 @@
+{
+    "name": "Layan",
+    "gtkTheme": "Layan-dark",
+    "iconTheme": "Reversal-dark",
+    "cursorTheme": "Layan-white-cursors",
+    "shell": "bash",
+    "desktopEnvironment": "plasma",
+    "windowManager": "kwin"
+}
